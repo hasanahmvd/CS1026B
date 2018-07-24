@@ -1,0 +1,14 @@
+China|Asia
+|1339190000|139.54United States of America|North America
+|309975000|32.19Brazil|South America
+|193364000|22.72Japan|Asia
+|127380000|337.13Canada|North America
+|67933|1.36Indonesia|Asia
+|260581100|144.0Nigeria|Africa
+|186987563|205.0Mexico|North America
+|128632004|65.32Egypt|Africa
+|93383574|93.38France|Europe
+|64668129|119.39Italy|Europe
+|59801004|199.34South Africa|Africa
+|54978907|44.98South Korea|Asia
+|50503933|514.94India|Asia|6000|12.0
