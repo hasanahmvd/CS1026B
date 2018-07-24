@@ -1,0 +1,5 @@
+Computer programming studies are one of the major global trends.
+Python is currently the most popular language used to teach programming for beginners.
+To promote effective, easily accessible programming education, we at JetBrains, are committed to providing quality,
+professional, seamless solutions for learning programming with Python,
+keeping the needs of both novice programmers and educators in mind.

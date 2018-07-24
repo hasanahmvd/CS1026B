@@ -1,0 +1,13 @@
+x = float(input("Please enter your first number: "))
+y = float(input("Please enter your second number: "))
+a = int(x + y)
+b = int(x * y)
+c = int(abs(x - y))
+d = int((x+y)/2)
+e = int(max(x,y))
+
+print("the sum of your numbers is {}".format(a))
+print("the product of your numbers is {}".format(b))
+print("the distance of your numbers is {}".format(c))
+print("the average of your numbers is {}".format(d))
+print("the maximum of your numbers is {}".format(e))
